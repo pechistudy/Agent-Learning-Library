@@ -37,3 +37,20 @@
 + [Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration](https://arxiv.org/abs/1802.08802) (Feb. 2018, ICLR 2018)  
   [![Star](https://img.shields.io/github/stars/stanfordnlp/wge.svg?style=social)](https://github.com/stanfordnlp/wge) [![arXiv](https://img.shields.io/badge/arXiv-📄-blue?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1802.08802)
 
+## Web Agent
+
+
++ [WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning](https://arxiv.org/pdf/2505.16421) (May. 2025)  
+  [![Star](https://img.shields.io/github/stars/weizhepei/WebAgent-R1.svg?style=social)](https://github.com/weizhepei/WebAgent-R1) [![arXiv](https://img.shields.io/badge/arXiv-📄-blue?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.16421)
+
+
++ [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/pdf/2501.07572) (Jan. 2025)  
+  [![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent.svg?style=social)](https://github.com/Alibaba-NLP/WebAgent) [![arXiv](https://img.shields.io/badge/arXiv-📄-blue?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.07572)
+
+
++ [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/pdf/2505.22648) (May. 2025)  
+  [![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent.svg?style=social)](https://github.com/Alibaba-NLP/WebAgent) [![arXiv](https://img.shields.io/badge/arXiv-📄-blue?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.22648)
+
+
++ [WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://arxiv.org/pdf/2506.01952) (Jun. 2025)  
+  [![Star](https://img.shields.io/github/stars/WebChoreArena/WebChoreArena.svg?style=social)](https://github.com/WebChoreArena/WebChoreArena) [![arXiv](https://img.shields.io/badge/arXiv-📄-blue?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.01952)
