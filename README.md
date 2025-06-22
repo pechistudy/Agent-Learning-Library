@@ -19,7 +19,7 @@ Feel free to suggest additions or corrections!
   [![Star](https://img.shields.io/github/stars/RUCAIBox/R1-Searcher.svg?style=social)](https://github.com/RUCAIBox/R1-Searcher) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05592)
 
 + [ZEROSEARCH: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/pdf/2505.04588) (May. 2025)  
-  [![Star](https://img.shields.io/github/stars/Alibaba-NLP/ZeroSearchz.svg?style=social)](https://github.com/Alibaba-NLP/ZeroSearchz) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.04588)
+  [![Star](https://img.shields.io/github/stars/Alibaba-NLP/ZeroSearchz.svg?style=social)](https://github.com/Alibaba-NLP/ZeroSearch) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.04588)
 
 ---
 
