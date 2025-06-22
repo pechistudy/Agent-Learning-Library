@@ -37,6 +37,8 @@
 + [Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration](https://arxiv.org/abs/1802.08802) (Feb. 2018, ICLR 2018)  
   [![Star](https://img.shields.io/github/stars/stanfordnlp/wge.svg?style=social)](https://github.com/stanfordnlp/wge) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1802.08802)
 
+---
+
 ## Web Agent
 
 
@@ -54,3 +56,33 @@
 
 + [WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://arxiv.org/pdf/2506.01952) (Jun. 2025)  
   [![Star](https://img.shields.io/github/stars/WebChoreArena/WebChoreArena.svg?style=social)](https://github.com/WebChoreArena/WebChoreArena) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01952)
+
+
+## Autonomous Agent Construction
+
++ [SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence](https://arxiv.org/pdf/2506.15672) (Jun. 2025)  
+  [![Star](https://img.shields.io/github/stars/YaoZ720/SwarmAgenticCode.svg?style=social)](https://github.com/YaoZ720/SwarmAgenticCode) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.15672)
+
+
+## Datasets
+
++ [Embodied Web Agents: Combining Embodied Intelligence Engines with Web Agents](https://arxiv.org/pdf/2506.15677) (Jun. 2025)  
+  [![Star](https://img.shields.io/github/stars/Embodied-Web-Agent/Embodied-Web-Agent.svg?style=social)](https://github.com/Embodied-Web-Agent/Embodied-Web-Agent) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.15677)
+
++ [TheAgentCompany: Integrating Web Engines for Autonomous Agents](https://arxiv.org/pdf/2412.14161) (Dec. 2024)  
+  [![Star](https://img.shields.io/github/stars/TheAgentCompany/TheAgentCompany.svg?style=social)](https://github.com/TheAgentCompany/TheAgentCompany) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14161)
+
++ [WebArena](https://arxiv.org/pdf/2307.13854) (Jul. 2023)  
+  🌐 [WebArena.dev](https://webarena.dev/) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13854)
+
++ [MMSearch: Unveiling the Potential of Large Models as Multi-Modal Search Engines](https://arxiv.org/pdf/2409.12959) (Sep. 2024)  
+  [![Star](https://img.shields.io/github/stars/CaraJ7/MMSearch.svg?style=social)](https://github.com/CaraJ7/MMSearch) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.12959)
+
+
+## Survey Resources
+
++ [Awesome-Agent-Papers](https://arxiv.org/pdf/2503.21460) (Mar. 2025)  
+  [![Star](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers.svg?style=social)](https://github.com/luo-junyu/Awesome-Agent-Papers) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21460)
+
++ [Awesome-Web-Agents](https://github.com/steel-dev/awesome-web-agents)  
+  [![Star](https://img.shields.io/github/stars/steel-dev/awesome-web-agents.svg?style=social)](https://github.com/steel-dev/awesome-web-agents)
