@@ -1,4 +1,12 @@
-# Agent-learning
+# Agent-Learning-Library
+
+**Agent-Learning-Library** is a collection of resources on AI agents.
+It includes papers, code, datasets, and survey materials—mostly covering web agents, tool-using agents, multimodal agents, and related areas.
+
+It’s not meant to be complete or authoritative, but serves as an organized compilation of useful materials.
+Hopefully, it can help others save time and avoid detours during their own exploration.
+
+Feel free to suggest additions or corrections!
 
 ## LLM with Tool Usage
 
