@@ -78,14 +78,17 @@ Feel free to suggest additions or corrections!
 
   ### 2.2 GUI Desktop Agent
 
-  + [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://github.com/bytedance/UI-TARS-desktop?tab=readme-ov-file)  
-    [![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social)](https://github.com/bytedance/UI-TARS-desktop?tab=readme-ov-file)  
-    [![arXiv](https://img.shields.io/badge/arXiv-2501.12326-b31b1b.svg)](https://arxiv.org/pdf/2501.12326)
-
   + [Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents](https://github.com/simular-ai/Agent-S)  
     [![Star](https://img.shields.io/github/stars/simular-ai/Agent-S.svg?style=social)](https://github.com/simular-ai/Agent-S)  
     [![arXiv](https://img.shields.io/badge/arXiv-2504.00906-b31b1b.svg)](https://arxiv.org/pdf/2504.00906)
 
+  + [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://github.com/bytedance/UI-TARS-desktop?tab=readme-ov-file)  
+    [![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social)](https://github.com/bytedance/UI-TARS-desktop?tab=readme-ov-file)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2501.12326-b31b1b.svg)](https://arxiv.org/pdf/2501.12326)
+
+  + [MP-GUI: Modality Perception with MLLMs for GUI Understanding](https://github.com/BigTaige/MP-GUI)  
+    [![Star](https://img.shields.io/github/stars/BigTaige/MP-GUI.svg?style=social)](https://github.com/BigTaige/MP-GUI)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2503.14021-b31b1b.svg)](https://arxiv.org/pdf/2503.14021)
 ---
 
 
