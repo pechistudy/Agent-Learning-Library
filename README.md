@@ -59,21 +59,26 @@ Feel free to suggest additions or corrections!
 ## 2 GUI Agent
   ### 2.1 GUI Web Agent
 
+  + [WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://github.com/WebChoreArena/WebChoreArena)  
+    [![Star](https://img.shields.io/github/stars/WebChoreArena/WebChoreArena.svg?style=social)](https://github.com/WebChoreArena/WebChoreArena)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2506.01952-b31b1b.svg)](https://arxiv.org/abs/2506.01952)
+
   + [WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning](https://github.com/weizhepei/WebAgent-R1)  
     [![Star](https://img.shields.io/github/stars/weizhepei/WebAgent-R1.svg?style=social)](https://github.com/weizhepei/WebAgent-R1)  
     [![arXiv](https://img.shields.io/badge/arXiv-2505.16421-b31b1b.svg)](https://arxiv.org/abs/2505.16421)
-
-  + [WebWalker: Benchmarking LLMs in Web Traversal](https://github.com/Alibaba-NLP/WebAgent)  
-    [![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent.svg?style=social)](https://github.com/Alibaba-NLP/WebAgent)  
-    [![arXiv](https://img.shields.io/badge/arXiv-2501.07572-b31b1b.svg)](https://arxiv.org/abs/2501.07572)
+a
 
   + [WebDancer: Towards Autonomous Information Seeking Agency](https://github.com/Alibaba-NLP/WebAgent)  
     [![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent.svg?style=social)](https://github.com/Alibaba-NLP/WebAgent)  
     [![arXiv](https://img.shields.io/badge/arXiv-2505.22648-b31b1b.svg)](https://arxiv.org/abs/2505.22648)
 
-  + [WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://github.com/WebChoreArena/WebChoreArena)  
-    [![Star](https://img.shields.io/github/stars/WebChoreArena/WebChoreArena.svg?style=social)](https://github.com/WebChoreArena/WebChoreArena)  
-    [![arXiv](https://img.shields.io/badge/arXiv-2506.01952-b31b1b.svg)](https://arxiv.org/abs/2506.01952)
+  + [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://github.com/RUC-NLPIR/WebThinker)  
+    [![Star](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker.svg?style=social)](https://github.com/RUC-NLPIR/WebThinker)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2504.21776-b31b1b.svg)](https://arxiv.org/pdf/2504.21776)
+
+  + [WebWalker: Benchmarking LLMs in Web Traversal](https://github.com/Alibaba-NLP/WebAgent)  
+    [![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent.svg?style=social)](https://github.com/Alibaba-NLP/WebAgent)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2501.07572-b31b1b.svg)](https://arxiv.org/abs/2501.07572)
 
 ---
   ### 2.2 GUI Desktop Agent
