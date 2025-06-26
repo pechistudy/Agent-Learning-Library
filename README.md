@@ -56,32 +56,29 @@ Feel free to suggest additions or corrections!
 
 ---
 
-## 2 Web Agent
+## 2 GUI Agent
+  ## 2.1 GUI Web Agent
 
-+ [WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning](https://github.com/weizhepei/WebAgent-R1)  
-  [![Star](https://img.shields.io/github/stars/weizhepei/WebAgent-R1.svg?style=social)](https://github.com/weizhepei/WebAgent-R1)  
-  [![arXiv](https://img.shields.io/badge/arXiv-2505.16421-b31b1b.svg)](https://arxiv.org/abs/2505.16421)
+  + [WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning](https://github.com/weizhepei/WebAgent-R1)  
+    [![Star](https://img.shields.io/github/stars/weizhepei/WebAgent-R1.svg?style=social)](https://github.com/weizhepei/WebAgent-R1)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2505.16421-b31b1b.svg)](https://arxiv.org/abs/2505.16421)
 
-+ [WebWalker: Benchmarking LLMs in Web Traversal](https://github.com/Alibaba-NLP/WebAgent)  
-  [![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent.svg?style=social)](https://github.com/Alibaba-NLP/WebAgent)  
-  [![arXiv](https://img.shields.io/badge/arXiv-2501.07572-b31b1b.svg)](https://arxiv.org/abs/2501.07572)
+  + [WebWalker: Benchmarking LLMs in Web Traversal](https://github.com/Alibaba-NLP/WebAgent)  
+    [![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent.svg?style=social)](https://github.com/Alibaba-NLP/WebAgent)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2501.07572-b31b1b.svg)](https://arxiv.org/abs/2501.07572)
 
-+ [WebDancer: Towards Autonomous Information Seeking Agency](https://github.com/Alibaba-NLP/WebAgent)  
-  [![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent.svg?style=social)](https://github.com/Alibaba-NLP/WebAgent)  
-  [![arXiv](https://img.shields.io/badge/arXiv-2505.22648-b31b1b.svg)](https://arxiv.org/abs/2505.22648)
+  + [WebDancer: Towards Autonomous Information Seeking Agency](https://github.com/Alibaba-NLP/WebAgent)  
+    [![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent.svg?style=social)](https://github.com/Alibaba-NLP/WebAgent)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2505.22648-b31b1b.svg)](https://arxiv.org/abs/2505.22648)
 
-+ [WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://github.com/WebChoreArena/WebChoreArena)  
-  [![Star](https://img.shields.io/github/stars/WebChoreArena/WebChoreArena.svg?style=social)](https://github.com/WebChoreArena/WebChoreArena)  
-  [![arXiv](https://img.shields.io/badge/arXiv-2506.01952-b31b1b.svg)](https://arxiv.org/abs/2506.01952)
-
----
-
-## 3 GUI Agent
-
+  + [WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://github.com/WebChoreArena/WebChoreArena)  
+    [![Star](https://img.shields.io/github/stars/WebChoreArena/WebChoreArena.svg?style=social)](https://github.com/WebChoreArena/WebChoreArena)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2506.01952-b31b1b.svg)](https://arxiv.org/abs/2506.01952)
 
 ---
 
-## 4 Autonomous Agent Construction
+
+## 3 Autonomous Agent Construction
 
 + [SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence](https://github.com/YaoZ720/SwarmAgenticCode)  
   [![Star](https://img.shields.io/github/stars/YaoZ720/SwarmAgenticCode.svg?style=social)](https://github.com/YaoZ720/SwarmAgenticCode)  
@@ -90,12 +87,12 @@ Feel free to suggest additions or corrections!
 
 
 
-## 5 Multi-Agent
+## 4 Multi-Agent
 
 
 ---
 
-## 6 Agent Traing Methods
+## 5 Agent Traing Methods
 
 + [Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training](https://github.com/ByteDance-Seed/Agent-R)  
   [![Star](https://img.shields.io/github/stars/ByteDance-Seed/Agent-R.svg?style=social)](https://github.com/ByteDance-Seed/Agent-R)  
@@ -103,7 +100,7 @@ Feel free to suggest additions or corrections!
 
 ----
 
-## 7 Datasets
+## 6 Datasets
 
 + [Embodied Web Agents: Combining Embodied Intelligence Engines with Web Agents](https://github.com/Embodied-Web-Agent/Embodied-Web-Agent)  
   [![Star](https://img.shields.io/github/stars/Embodied-Web-Agent/Embodied-Web-Agent.svg?style=social)](https://github.com/Embodied-Web-Agent/Embodied-Web-Agent)  
@@ -120,7 +117,7 @@ Feel free to suggest additions or corrections!
   [![Star](https://img.shields.io/github/stars/CaraJ7/MMSearch.svg?style=social)](https://github.com/CaraJ7/MMSearch)  
   [![arXiv](https://img.shields.io/badge/arXiv-2409.12959-b31b1b.svg)](https://arxiv.org/abs/2409.12959)
 
-## 8 Survey Resources
+## 7 Survey Resources
 
 + [Multi-Agent-MATE: LLM-Powered Multimodal Accessibility System](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE)  
   [![Star](https://img.shields.io/github/stars/AlgazinovAleksandr/Multi-Agent-MATE.svg?style=social)](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE)  
