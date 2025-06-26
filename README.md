@@ -103,7 +103,7 @@ Feel free to suggest additions or corrections!
 
 ----
 
-## 6 Datasets
+## 7 Datasets
 
 + [Embodied Web Agents: Combining Embodied Intelligence Engines with Web Agents](https://github.com/Embodied-Web-Agent/Embodied-Web-Agent)  
   [![Star](https://img.shields.io/github/stars/Embodied-Web-Agent/Embodied-Web-Agent.svg?style=social)](https://github.com/Embodied-Web-Agent/Embodied-Web-Agent)  
@@ -120,7 +120,7 @@ Feel free to suggest additions or corrections!
   [![Star](https://img.shields.io/github/stars/CaraJ7/MMSearch.svg?style=social)](https://github.com/CaraJ7/MMSearch)  
   [![arXiv](https://img.shields.io/badge/arXiv-2409.12959-b31b1b.svg)](https://arxiv.org/abs/2409.12959)
 
-## 7 Survey Resources
+## 8 Survey Resources
 
 + [Multi-Agent-MATE: LLM-Powered Multimodal Accessibility System](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE)  
   [![Star](https://img.shields.io/github/stars/AlgazinovAleksandr/Multi-Agent-MATE.svg?style=social)](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE)  
