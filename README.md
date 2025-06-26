@@ -109,6 +109,9 @@ Feel free to suggest additions or corrections!
   [![Star](https://img.shields.io/github/stars/ByteDance-Seed/Agent-R.svg?style=social)](https://github.com/ByteDance-Seed/Agent-R)  
   [![arXiv](https://img.shields.io/badge/arXiv-2501.11425-b31b1b.svg)](https://arxiv.org/pdf/2501.11425)
 
++ [Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning](https://github.com/0russwest0/Agent-R1)  
+  [![Star](https://img.shields.io/github/stars/0russwest0/Agent-R1.svg?style=social)](https://github.com/0russwest0/Agent-R1)  
+
 ----
 
 ## 6 Datasets
