@@ -8,9 +8,9 @@ Hopefully, it can help others save time and avoid detours during their own explo
 
 Feel free to suggest additions or corrections!
 
-## LLM with Tool Usage
+## 1 LLM with Tool Usage
 
-### Using Search Tools
+### 1.1 Using Search Tools
 
 + [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://github.com/PeterGriffinJin/Search-R1)  
   [![Star](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1.svg?style=social)](https://github.com/PeterGriffinJin/Search-R1)  
@@ -26,7 +26,7 @@ Feel free to suggest additions or corrections!
 
 ---
 
-### Others
+### 1.2 Other Tools
 
 + [AVATAR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning](https://github.com/zou-group/avatar)  
   [![Star](https://img.shields.io/github/stars/zou-group/avatar.svg?style=social)](https://github.com/zou-group/avatar)  
@@ -56,7 +56,7 @@ Feel free to suggest additions or corrections!
 
 ---
 
-## Web Agent
+## 2 Web Agent
 
 + [WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning](https://github.com/weizhepei/WebAgent-R1)  
   [![Star](https://img.shields.io/github/stars/weizhepei/WebAgent-R1.svg?style=social)](https://github.com/weizhepei/WebAgent-R1)  
@@ -74,13 +74,36 @@ Feel free to suggest additions or corrections!
   [![Star](https://img.shields.io/github/stars/WebChoreArena/WebChoreArena.svg?style=social)](https://github.com/WebChoreArena/WebChoreArena)  
   [![arXiv](https://img.shields.io/badge/arXiv-2506.01952-b31b1b.svg)](https://arxiv.org/abs/2506.01952)
 
-## Autonomous Agent Construction
+---
+
+## 3 GUI Agent
+
+
+---
+
+## 4 Autonomous Agent Construction
 
 + [SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence](https://github.com/YaoZ720/SwarmAgenticCode)  
   [![Star](https://img.shields.io/github/stars/YaoZ720/SwarmAgenticCode.svg?style=social)](https://github.com/YaoZ720/SwarmAgenticCode)  
   [![arXiv](https://img.shields.io/badge/arXiv-2506.15672-b31b1b.svg)](https://arxiv.org/abs/2506.15672)
 
-## Datasets
+
+
+
+## 5 Multi-Agent
+
+
+---
+
+## 6 Agent Traing Methods
+
++ [Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training](https://github.com/ByteDance-Seed/Agent-R)  
+  [![Star](https://img.shields.io/github/stars/ByteDance-Seed/Agent-R.svg?style=social)](https://github.com/ByteDance-Seed/Agent-R)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2506.15672-b31b1b.svg)](https://arxiv.org/pdf/2501.11425)
+
+----
+
+## 6 Datasets
 
 + [Embodied Web Agents: Combining Embodied Intelligence Engines with Web Agents](https://github.com/Embodied-Web-Agent/Embodied-Web-Agent)  
   [![Star](https://img.shields.io/github/stars/Embodied-Web-Agent/Embodied-Web-Agent.svg?style=social)](https://github.com/Embodied-Web-Agent/Embodied-Web-Agent)  
@@ -97,7 +120,7 @@ Feel free to suggest additions or corrections!
   [![Star](https://img.shields.io/github/stars/CaraJ7/MMSearch.svg?style=social)](https://github.com/CaraJ7/MMSearch)  
   [![arXiv](https://img.shields.io/badge/arXiv-2409.12959-b31b1b.svg)](https://arxiv.org/abs/2409.12959)
 
-## Survey Resources
+## 7 Survey Resources
 
 + [Multi-Agent-MATE: LLM-Powered Multimodal Accessibility System](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE)  
   [![Star](https://img.shields.io/github/stars/AlgazinovAleksandr/Multi-Agent-MATE.svg?style=social)](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE)  
