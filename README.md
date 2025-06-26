@@ -75,12 +75,13 @@ Feel free to suggest additions or corrections!
     [![Star](https://img.shields.io/github/stars/WebChoreArena/WebChoreArena.svg?style=social)](https://github.com/WebChoreArena/WebChoreArena)  
     [![arXiv](https://img.shields.io/badge/arXiv-2506.01952-b31b1b.svg)](https://arxiv.org/abs/2506.01952)
 
-
+---
   ### 2.2 GUI Desktop Agent
 
   + [Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents](https://github.com/simular-ai/Agent-S)  
     [![Star](https://img.shields.io/github/stars/simular-ai/Agent-S.svg?style=social)](https://github.com/simular-ai/Agent-S)  
     [![arXiv](https://img.shields.io/badge/arXiv-2504.00906-b31b1b.svg)](https://arxiv.org/pdf/2504.00906)
+    
 
   + [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://github.com/bytedance/UI-TARS-desktop?tab=readme-ov-file)  
     [![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social)](https://github.com/bytedance/UI-TARS-desktop?tab=readme-ov-file)  
@@ -98,7 +99,7 @@ Feel free to suggest additions or corrections!
   [![Star](https://img.shields.io/github/stars/YaoZ720/SwarmAgenticCode.svg?style=social)](https://github.com/YaoZ720/SwarmAgenticCode)  
   [![arXiv](https://img.shields.io/badge/arXiv-2506.15672-b31b1b.svg)](https://arxiv.org/abs/2506.15672)
 
-
+---
 
 
 ## 4 Multi-Agent
@@ -115,7 +116,7 @@ Feel free to suggest additions or corrections!
 + [Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning](https://github.com/0russwest0/Agent-R1)  
   [![Star](https://img.shields.io/github/stars/0russwest0/Agent-R1.svg?style=social)](https://github.com/0russwest0/Agent-R1)  
 
-----
+---
 
 ## 6 Datasets
 
@@ -134,6 +135,8 @@ Feel free to suggest additions or corrections!
   [![Star](https://img.shields.io/github/stars/CaraJ7/MMSearch.svg?style=social)](https://github.com/CaraJ7/MMSearch)  
   [![arXiv](https://img.shields.io/badge/arXiv-2409.12959-b31b1b.svg)](https://arxiv.org/abs/2409.12959)
 
+---
+
 ## 7 Survey Resources
 
 + [Multi-Agent-MATE: LLM-Powered Multimodal Accessibility System](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE)  
@@ -148,16 +151,17 @@ Feel free to suggest additions or corrections!
   [![Star](https://img.shields.io/github/stars/xinzhel/LLM-Agent-Survey.svg?style=social)](https://github.com/xinzhel/LLM-Agent-Survey)  
   [![arXiv](https://img.shields.io/badge/arXiv-2406.05804-b31b1b.svg)](https://arxiv.org/abs/2406.05804)
 
++ [AGENT AI: Surveying the Horizons of Multimodal Interaction](https://arxiv.org/abs/2401.03568)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2401.03568-b31b1b.svg)](https://arxiv.org/abs/2401.03568)
+
 + [Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers)  
   [![Star](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers.svg?style=social)](https://github.com/luo-junyu/Awesome-Agent-Papers)  
   [![arXiv](https://img.shields.io/badge/arXiv-2503.21460-b31b1b.svg)](https://arxiv.org/abs/2503.21460)
 
+---
+
 + [Awesome-Web-Agents](https://github.com/steel-dev/awesome-web-agents)  
   [![Star](https://img.shields.io/github/stars/steel-dev/awesome-web-agents.svg?style=social)](https://github.com/steel-dev/awesome-web-agents)
 
-+ [AGENT AI: Surveying the Horizons of Multimodal Interaction](https://arxiv.org/abs/2401.03568)  
-  [![arXiv](https://img.shields.io/badge/arXiv-2401.03568-b31b1b.svg)](https://arxiv.org/abs/2401.03568)
-
-
-
-
++ [AI Agents Papers](https://github.com/masamasa59/ai-agent-papers)  
+  [![Star](https://img.shields.io/github/stars/masamasa59/ai-agent-papers.svg?style=social)](https://github.com/masamasa59/ai-agent-papers)
