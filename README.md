@@ -57,7 +57,7 @@ Feel free to suggest additions or corrections!
 ---
 
 ## 2 GUI Agent
-  ## 2.1 GUI Web Agent
+  ### 2.1 GUI Web Agent
 
   + [WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning](https://github.com/weizhepei/WebAgent-R1)  
     [![Star](https://img.shields.io/github/stars/weizhepei/WebAgent-R1.svg?style=social)](https://github.com/weizhepei/WebAgent-R1)  
@@ -74,6 +74,13 @@ Feel free to suggest additions or corrections!
   + [WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://github.com/WebChoreArena/WebChoreArena)  
     [![Star](https://img.shields.io/github/stars/WebChoreArena/WebChoreArena.svg?style=social)](https://github.com/WebChoreArena/WebChoreArena)  
     [![arXiv](https://img.shields.io/badge/arXiv-2506.01952-b31b1b.svg)](https://arxiv.org/abs/2506.01952)
+
+
+  ### 2.2 GUI Desktop Agent
+
+  + [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://github.com/bytedance/UI-TARS-desktop?tab=readme-ov-file)  
+    [![Star](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop.svg?style=social)](https://github.com/bytedance/UI-TARS-desktop?tab=readme-ov-file)  
+    [![arXiv](https://img.shields.io/badge/arXiv-2505.16421-b31b1b.svg)](https://arxiv.org/pdf/2501.12326)
 
 ---
 
