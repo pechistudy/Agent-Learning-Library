@@ -110,6 +110,11 @@ Feel free to suggest additions or corrections!
 
 + [Multi-Agent Collaboration via Evolving Orchestration](https://github.com/YaoZ720/SwarmAgenticCode)  
   [![arXiv](https://img.shields.io/badge/arXiv-2505.19591-b31b1b.svg)](https://arxiv.org/pdf/2505.19591)  
+
++ [SRMT: SHARED MEMORY FOR MULTI-AGENT LIFELONG PATHFINDING](https://github.com/Aloriosa/srmt)  
+  [![Star](https://img.shields.io/github/stars/Aloriosa/srmt.svg?style=social)](https://github.com/Aloriosa/srmt)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2501.13200-b31b1b.svg)](https://arxiv.org/pdf/2501.13200)
+
 ---
 
 ## 5 Agent Traing Methods
