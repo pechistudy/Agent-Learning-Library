@@ -90,23 +90,25 @@ Feel free to suggest additions or corrections!
 ## Survey Resources
 + [Multi-Agent-MATE: LLM-Powered Multimodal Accessibility System](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE)  
   [![Star](https://img.shields.io/github/stars/AlgazinovAleksandr/Multi-Agent-MATE.svg?style=social)](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE)  
-  [📄 arXiv:2506.19502](https://arxiv.org/abs/2506.19502)
+  [![arXiv](https://img.shields.io/badge/arXiv-2506.19502-b31b1b.svg)](https://arxiv.org/abs/2506.19502)
 
 + [DeepResearch: A Comprehensive Survey of Deep Research Systems](https://github.com/scienceaix/deepresearch)  
   [![Star](https://img.shields.io/github/stars/scienceaix/deepresearch.svg?style=social)](https://github.com/scienceaix/deepresearch)  
-  [📄 arXiv:2506.12594](https://arxiv.org/abs/2506.12594)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2506.12594-b31b1b.svg)](https://arxiv.org/abs/2506.12594)
 
 + [LLM-Agent-Survey: A Review of Tool Use, Planning, and Feedback Learning](https://github.com/xinzhel/LLM-Agent-Survey)  
   [![Star](https://img.shields.io/github/stars/xinzhel/LLM-Agent-Survey.svg?style=social)](https://github.com/xinzhel/LLM-Agent-Survey)  
-  [📄 arXiv:2406.05804](https://arxiv.org/abs/2406.05804)
+  [![arXiv](https://img.shields.io/badge/arXiv-2406.05804-b31b1b.svg)](https://arxiv.org/abs/2406.05804)
 
-+ [Awesome-Agent-Papers](https://arxiv.org/pdf/2503.21460) (Mar. 2025)  
-  [![Star](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers.svg?style=social)](https://github.com/luo-junyu/Awesome-Agent-Papers) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21460)
++ [Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) (Mar. 2025)  
+  [![Star](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers.svg?style=social)](https://github.com/luo-junyu/Awesome-Agent-Papers)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2503.21460-b31b1b.svg)](https://arxiv.org/abs/2503.21460)
 
 + [Awesome-Web-Agents](https://github.com/steel-dev/awesome-web-agents)  
   [![Star](https://img.shields.io/github/stars/steel-dev/awesome-web-agents.svg?style=social)](https://github.com/steel-dev/awesome-web-agents)
 
 + [AGENT AI: Surveying the Horizons of Multimodal Interaction](https://arxiv.org/abs/2401.03568)  
-  [📄 arXiv:2401.03568](https://arxiv.org/abs/2401.03568)
+  [![arXiv](https://img.shields.io/badge/arXiv-2401.03568-b31b1b.svg)](https://arxiv.org/abs/2401.03568)
+
 
 
