@@ -104,7 +104,12 @@ Feel free to suggest additions or corrections!
 
 ## 4 Multi-Agent
 
++ [Multi-Agent System for Comprehensive Soccer Understanding](https://github.com/YaoZ720/SwarmAgenticCode)  
+  [![Star](https://img.shields.io/github/stars/jyrao/SoccerAgent.svg?style=social)](https://github.com/jyrao/SoccerAgent)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2505.03735-b31b1b.svg)](https://arxiv.org/pdf/2505.03735)
 
++ [Multi-Agent Collaboration via Evolving Orchestration](https://github.com/YaoZ720/SwarmAgenticCode)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2505.19591-b31b1b.svg)](https://arxiv.org/pdf/2505.19591)  
 ---
 
 ## 5 Agent Traing Methods
