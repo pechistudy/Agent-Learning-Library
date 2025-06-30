@@ -134,6 +134,10 @@ a
 ---
 
 ## 6 Datasets
++ 🔍 [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://github.com/OSU-NLP-Group/Mind2Web-2)  
+  [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/Mind2Web-2.svg?style=social)](https://github.com/OSU-NLP-Group/Mind2Web-2) [![arXiv](https://img.shields.io/badge/arXiv-2506.21506-b31b1b.svg)](https://arxiv.org/abs/2506.21506)  
+  简介：构建了更难的、长步骤的web search任务130个，并以树状结构设计评估标准和评估流程  
+  Summary: Constructed 130 challenging, long-horizon web search tasks, with a tree-structured design for evaluation criteria and process.
 
 + 🔍 [MMSearch-R1: Incentivizing LMMs to Search](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)  
   [![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1.svg?style=social)](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) [![arXiv](https://img.shields.io/badge/arXiv-2506.20670-b31b1b.svg)](https://arxiv.org/pdf/2506.20670)  
