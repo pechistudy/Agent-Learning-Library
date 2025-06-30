@@ -135,11 +135,10 @@ a
 
 ## 6 Datasets
 
-+ [MMSearch-R1: Incentivizing LMMs to Search](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)  
-  [![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1.svg?style=social)](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) \  
-  [![arXiv](https://img.shields.io/badge/arXiv-2506.20670-b31b1b.svg)](https://arxiv.org/pdf/2506.20670)
-  构造收集了利用search tool的VQA数据集,包含利用文本搜、图搜以及搜索free的,并训练了baseline模型.
-  A VQA dataset designed for multimodal search, covering three settings: text-based search, image-based search, and search-free. Baseline models are provided for performance benchmarking.
++ 🔍 [MMSearch-R1: Incentivizing LMMs to Search](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)  
+  [![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1.svg?style=social)](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) [![arXiv](https://img.shields.io/badge/arXiv-2506.20670-b31b1b.svg)](https://arxiv.org/pdf/2506.20670)  
+  简介：构建了包含文本搜索、图像搜索和无搜索三种设置的多模态VQA数据集及基线模型。  
+  Summary: A multimodal VQA dataset with text-based, image-based, and search-free settings, along with baseline models.
 
 + [Embodied Web Agents: Combining Embodied Intelligence Engines with Web Agents](https://github.com/Embodied-Web-Agent/Embodied-Web-Agent)  
   [![Star](https://img.shields.io/github/stars/Embodied-Web-Agent/Embodied-Web-Agent.svg?style=social)](https://github.com/Embodied-Web-Agent/Embodied-Web-Agent)  
